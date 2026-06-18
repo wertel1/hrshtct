@@ -1,0 +1,2 @@
+BOT_TOKEN = "8525515229:AAEMQlqE5AOkUtabBiwF7LloCWPULrTJHDc"
+DB_NAME = "mood_tracker.db"
